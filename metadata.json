@@ -1,0 +1,6 @@
+{
+  "name": "Chronos",
+  "description": "CHRONOS — Time • Weather • Intelligence (V1.66.88 Stable): Jam pintar real-time, bola dunia 3D interaktif, cuaca satelit, alarm sirkadian REM, asisten AI, dan suite produktivitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

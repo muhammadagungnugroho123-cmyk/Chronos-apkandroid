@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chronos</string>
+    <string name="tagline">PRECISION TIME &amp; FOCUS OS</string>
+    <string name="nav_clock">Jam Dunia</string>
+    <string name="nav_focus">Fokus</string>
+    <string name="nav_stopwatch">Stopwatch</string>
+    <string name="nav_alarm">Alarm</string>
+    <string name="nav_tasks">Jadwal &amp; Tugas</string>
+    <string name="cd_theme_toggle">Ganti Tema</string>
+    <string name="cd_sound_toggle">Suara &amp; Getar</string>
+    <string name="cd_add_item">Tambah Item Baru</string>
+</resources>
